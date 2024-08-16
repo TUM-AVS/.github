@@ -1,5 +1,5 @@
 
-## Welcome to the Autonomous Vehicle Sysems (AVS) Lab at TUM! 👋 <img src="https://github.com/TUM-AVS/.github/blob/main/images/TUM_Logo.png" align="right" width="120"> <br/>
+## Welcome to the Autonomous Vehicle Sysems (AVS) Lab <img src="https://github.com/TUM-AVS/.github/blob/main/images/TUM_Logo.png" align="right" width="120"> <br/> at the Technical University of Munich (TUM)! 👋 
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/tum-avs?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/tum-avs?style=social"/> </p>
 
