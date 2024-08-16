@@ -1,5 +1,5 @@
 
-## Welcome to the Autonomous Vehicle Sysems (AVS) Lab at TUM! 👋
+## Welcome to the Autonomous Vehicle Sysems (AVS) Lab at TUM! 👋 <img src="https://hfph.de/studieninteressierte/modulstudien-philosophie-tum/tum_logo.png/image_view_fullscreen" align="right" width="240"> <br/>
 
 <p align="center"> <br> <img src="https://img.shields.io/github/stars/tum-avs?style=social"/> &nbsp; <img src="https://img.shields.io/github/followers/tum-avs?style=social"/> </p>
 
